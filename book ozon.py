@@ -1,5 +1,13 @@
 from lib import create_book, add_book, list_books, search_books
 
+
+# TODO: tags - война, любовь
+# TODO: tags - поезд, любовь
+# TODO: 1. Как хранить (тип данных)
+# TODO: 2. Как искать  (полное совпадение???)
+# TODO: 3. Написать функцию поиска по тегам
+# TODO: 4.(advanced) искать по тегам #name
+
 books = []
 
 war_and_piece = create_book(
